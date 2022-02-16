@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/3-35-fracture-and-fatigue-fall-2003/5bdf4ebe1b3e4547e02836463511fa74_nlefm.pdf
+file: /media/courses/3-35-fracture-and-fatigue-fall-2003/5bdf4ebe1b3e4547e02836463511fa74_nlefm.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: nlefm.pdf
 uid: 5bdf4ebe-1b3e-4547-e028-36463511fa74
