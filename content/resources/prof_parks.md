@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 32b0b1cf-5809-ecf6-41ad-0df70debecf4
 resourcetype: Document
 title: prof_parks.pdf
 uid: 8c91e9e2-7a59-52f1-115c-b317aee328e3

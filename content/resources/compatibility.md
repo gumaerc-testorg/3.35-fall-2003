@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: bc36d0c9-33fc-a6f2-accc-4965ab660751
 resourcetype: Document
 title: compatibility.pdf
 uid: b9b734cd-f20a-24d0-d335-df3d8c72d58f

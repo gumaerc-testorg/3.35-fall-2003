@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 32b0b1cf-5809-ecf6-41ad-0df70debecf4
 resourcetype: Document
 title: fatigue_crack_growth.pdf
 uid: a58de197-80c0-5876-356b-f3ce30252f90

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 32b0b1cf-5809-ecf6-41ad-0df70debecf4
 resourcetype: Document
 title: plastic_zone.pdf
 uid: a559e31a-5504-d166-55ec-15176459e259

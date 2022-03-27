@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 32b0b1cf-5809-ecf6-41ad-0df70debecf4
 resourcetype: Document
 title: total_life.pdf
 uid: bae84ab6-7ea7-a850-54bf-75eb341cfce5

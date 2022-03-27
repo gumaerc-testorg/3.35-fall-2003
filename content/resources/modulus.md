@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: bc36d0c9-33fc-a6f2-accc-4965ab660751
 resourcetype: Document
 title: modulus.pdf
 uid: 5cc0c327-f891-06ce-0419-ba5d2a4e110d

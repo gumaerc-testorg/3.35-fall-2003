@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: bc36d0c9-33fc-a6f2-accc-4965ab660751
 resourcetype: Document
 title: strain_displacement.pdf
 uid: 994afded-0fed-5cfd-069c-c3855bfd36e7
