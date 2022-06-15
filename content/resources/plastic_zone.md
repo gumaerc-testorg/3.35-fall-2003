@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/3-35-fracture-and-fatigue-fall-2003/a559e31a5504d16655ec15176459e259_plastic_zone.pdf
+file: /courses/3-35-fracture-and-fatigue-fall-2003/a559e31a5504d16655ec15176459e259_plastic_zone.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

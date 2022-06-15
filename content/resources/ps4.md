@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/3-35-fracture-and-fatigue-fall-2003/c53e66df3db5b1f7d42606caeabe7615_ps4.pdf
+file: /courses/3-35-fracture-and-fatigue-fall-2003/c53e66df3db5b1f7d42606caeabe7615_ps4.pdf
 file_type: application/pdf
 learning_resource_types:
 - Assignments
