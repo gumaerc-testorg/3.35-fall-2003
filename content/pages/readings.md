@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: List of citations
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: c609b40f-e582-a8f8-7a43-1444cc2f867c
 ---
