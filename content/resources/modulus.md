@@ -4,6 +4,7 @@ description: ''
 file: /courses/3-35-fracture-and-fatigue-fall-2003/5cc0c327f89106ce0419ba5d2a4e110d_modulus.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
