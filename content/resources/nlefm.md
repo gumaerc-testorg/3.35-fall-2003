@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/3-35-fracture-and-fatigue-fall-2003/5bdf4ebe1b3e4547e02836463511fa74_nlefm.pdf
+file_size: 238248
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

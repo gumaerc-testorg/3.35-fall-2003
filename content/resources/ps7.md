@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/3-35-fracture-and-fatigue-fall-2003/785f896d3d890577f3631b3f7e31f1c4_ps7.pdf
+file_size: 94476
 file_type: application/pdf
 learning_resource_types:
 - Assignments
