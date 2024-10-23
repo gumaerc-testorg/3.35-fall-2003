@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/3-35-fracture-and-fatigue-fall-2003/095a2da14a7be9c07e155ccfe3898627_ps1.pdf
+file: /ol-ocw-studio-app/courses/3-35-fracture-and-fatigue-fall-2003/095a2da14a7be9c07e155ccfe3898627_ps1.pdf
 file_size: 27737
 file_type: application/pdf
 learning_resource_types:
